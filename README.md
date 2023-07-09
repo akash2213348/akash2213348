@@ -31,7 +31,6 @@
 <h3 align="center">A Tech Enthusiast and Software Architect hailing from Chandigarh, India. My primary focus revolves around web development, specializing in HTML5, CSS, JavaScript, Bootstrap, jQuery, Laravel, Vue.js, React, Node.js and ChatGPT. Currently, my professional expertise lies in employing this software development stack. With a robust track record spanning over 5+ years, I have acquired extensive experience in various aspects of web application development, including architecture design, implementation, and development. I have honed my skills specifically in utilizing Laravel and other cutting-edge web technologies to create robust and efficient web solutions.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash2213348" alt="akash2213348" /></a> </p>
 
 
 - 🔭 I’m currently working on [gfds](gfds)
